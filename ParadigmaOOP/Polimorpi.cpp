@@ -10,3 +10,8 @@ public:
         cout << "pesan dari seseorang" << endl;
     }
 };
+
+class joko
+{
+
+};
