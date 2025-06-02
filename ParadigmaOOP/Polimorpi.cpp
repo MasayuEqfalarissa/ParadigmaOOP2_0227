@@ -13,5 +13,9 @@ public:
 
 class joko
 {
-
+public: 
+    void pesan()
+    {
+        cout << "pesan dari Lia" << endl;
+    }
 };
