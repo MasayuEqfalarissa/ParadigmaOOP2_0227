@@ -18,3 +18,11 @@ public:
         cout << "hallo saya function dari derived class";
     }
 };
+
+int main ()
+{
+    derivedclass a;
+    a.perkenalan();
+
+    return 0;
+}
